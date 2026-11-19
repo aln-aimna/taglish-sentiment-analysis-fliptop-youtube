@@ -1,6 +1,6 @@
-# Lupet or Luto? Sentiment Analysis of Taglish Comments on the Most Viewed FlipTop Battle
+# Sentiment Analysis of Taglish Comments on the Most Viewed FlipTop Battle
 
-Milestone 4 - *Sentiment Analysis from Classic NLP to LLMs.*
+*Sentiment Analysis from Classic NLP to LLMs.*
 
 YouTube comments on FlipTop's most watched battle, **Loonie & Abra vs Shehyee & Smugglaz** (Dos Por Dos 2012,
 [video `gyIxD5K4lUo`](https://www.youtube.com/watch?v=gyIxD5K4lUo)), are classified as **positive / neutral /
