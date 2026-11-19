@@ -17,21 +17,6 @@ negative** with three approaches, then compared on accuracy, speed and cost:
 The comments are mostly **Tagalog**, with English and **Taglish** (both in one sentence), full of slang,
 misspellings, laughter, emoji and profanity, so a big part of the project is **cleaning Taglish text**.
 
-## Results
-
-Every model is scored on the same fixed, stratified **300-comment test set** and the same **30 hard cases**.
-Main metric: **macro-F1**.
-
-| Model | Accuracy | Macro-F1 | Hard-cases acc. | Sec / 1k preds | Cost / 1k preds |
-|---|---|---|---|---|---|
-| VADER (stock) | *run 02* | | | | $0 |
-| VADER + Taglish lexicon | *run 02* | | | | $0 |
-| NLTK + Naive Bayes | *run 03* | | | | ~$0 |
-| Claude Haiku 5.5 zero-shot | *run 04* | | | | ≈ $0.04 |
-
-After running notebooks 02 → 05, the full table is in `results/metrics.csv` and `results/results_table.md`
-(ready to paste here), and the charts are in `results/charts/`.
-
 ## Repo layout
 
 ```
