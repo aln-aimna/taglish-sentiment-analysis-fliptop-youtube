@@ -1,0 +1,17 @@
+# secrets
+.env
+*.key
+
+# python / jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# big file that notebook 01 rebuilds from data/raw in ~10 s
+data/processed/comments_clean.csv

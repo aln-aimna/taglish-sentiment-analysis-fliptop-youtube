@@ -1,0 +1,31 @@
+hard_id,text,label,phenomenon
+1,Hindi magaling si Loonie dito.,negative,negation
+2,Hindi naman pangit yung laban eh.,positive,negation
+3,Walang kwenta yung rebuttal nila.,negative,negation
+4,Wala akong masabi sa galing ni Smugglaz.,positive,negation
+5,"Tang ina ang lupet ng bara ni Abra!",positive,profanity_as_praise
+6,"Putangina, ang bangis talaga ng round 3!",positive,profanity_as_praise
+7,"Gago, pinakasolid na dos por dos 'to.",positive,profanity_as_praise
+8,"Wow, ang galing mag-choke ni Shehyee. Idol talaga.",negative,sarcasm
+9,"Ang husay naman ng judges, 7-0 agad. Sobrang fair talaga 🙄",negative,sarcasm
+10,Ganda ng laban sana kaso luto.,negative,contrast
+11,Corny yung jokes pero solid yung rebuttals.,positive,contrast
+12,"Magaling si Shehyee, kaso pabuhat lang talaga kay Smugg.",negative,contrast
+13,"Fan ako ng Team LA pero deserve ng SS manalo, galing nila.",positive,contrast
+14,"Sobrang ganda ng flow ni Smugg, grabe!",positive,booster
+15,Medyo boring yung second round.,negative,mild_negative
+16,Sino pa nanonood nito ngayong 2026?,neutral,question_date
+17,Ano yung title ng intro song?,neutral,question
+18,"32:10 ""di nyo ko kahilerang tatlo""",neutral,quoted_bar
+19,Hahahahaha,neutral,laughter_only
+20,Like kung Team SS ka.,neutral,like_bait
+21,"Not bad, pero mas gusto ko yung laban nila last year.",neutral,mixed
+22,Di ako fan ni Loonie pero ang lalim talaga ng sulat niya.,positive,negation_contrast
+23,"Never ako magsasawa panoorin 'to.",positive,negation
+24,"No offense pero ang yabang ni Shehyee dito.",negative,negation_contrast
+25,Ang yabang ng Team SS pero ang lakas talaga nila.,positive,contrast
+26,Iyak mga LA fans hahaha,negative,taunt
+27,Panalo! Team LA pa rin kahit talo.,positive,support
+28,Napaka-overrated ng battle na 'to.,negative,booster
+29,"Ok lang naman, wala namang espesyal.",neutral,lukewarm
+30,"Grabe 'yung personalan, sobra na, nakakadiri.",negative,booster
